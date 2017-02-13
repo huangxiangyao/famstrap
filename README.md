@@ -1,6 +1,6 @@
 # famstrap
 The famfamfam icons for use with Twitter Bootstrap
 
-http://www.famfamfam.com/lab/icons/silk/
+[![FAMFAMFAM](http://www.famfamfam.com/lab/icons/silk/)](FAMFAMFAM Silk Icons)
 
-[http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png](index abc)
+[![index abc](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png)](Index of Icons)
