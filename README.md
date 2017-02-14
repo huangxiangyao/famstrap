@@ -7,4 +7,4 @@ http://www.famfamfam.com/lab/icons/silk/
 
 * Index of Icons
 
-[[![index abc](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png)](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png)
+[![index abc](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png)](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png)
